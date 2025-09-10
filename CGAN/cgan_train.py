@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 15 09:26:17 2020
-CGAN生成MNIST数据
-"""
-
 import torch
 import torch.nn as nn
 import numpy as np
@@ -144,3 +138,4 @@ def generate_digit_image(generator, digit):
 
 # 生成数字 3 的图像
 generate_digit_image(G, 3)
+
