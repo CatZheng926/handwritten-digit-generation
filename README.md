@@ -53,8 +53,12 @@ pip install -r requirements.txt
 
 
 #### GAN 生成样本
+训练0，40，80，120次
 
 <img width="800" height="800" alt="generated_epoch_0" src="https://github.com/user-attachments/assets/56ecb48b-c068-4b4e-b5e0-5bf1d63d4d02" />
+<img width="800" height="800" alt="generated_epoch_40" src="https://github.com/user-attachments/assets/a4a0e7df-cb7b-42ec-9aee-e6016ea1fd61" />
+<img width="800" height="800" alt="generated_epoch_80" src="https://github.com/user-attachments/assets/6bb7cdbc-bee9-4cb8-bc15-00c1db4d1700" />
+<img width="800" height="800" alt="generated_epoch_120" src="https://github.com/user-attachments/assets/a28977c9-6200-4e50-a5bb-ebebd52b96e1" />
 
 
 -----
