@@ -49,7 +49,11 @@ pip install -r requirements.txt
 ### 🖼️ 结果展示
 
 #### VAE 生成样本
+训练20，40，60次
 
+<img width="152" height="62" alt="sample20" src="https://github.com/user-attachments/assets/198c38d3-6247-44fd-8529-8ecb243b4040" />
+<img width="152" height="62" alt="sample40" src="https://github.com/user-attachments/assets/5249ed41-0a54-4d42-97f8-04d5504d4e65" />
+<img width="152" height="62" alt="sample60" src="https://github.com/user-attachments/assets/9bac2c53-8d4b-4392-95c7-119cd2231892" />
 
 
 #### GAN 生成样本
